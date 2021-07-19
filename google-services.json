@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220118448499",
+    "firebase_url": "https://chroniccaremanagementapp.firebaseio.com",
+    "project_id": "chroniccaremanagementapp",
+    "storage_bucket": "chroniccaremanagementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220118448499:android:fdf3d48f789b348ce7ad06",
+        "android_client_info": {
+          "package_name": "com.example.chroniccaremanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220118448499-j2kcjmg49r11sd0q8m8s1b2r8ifvjfat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSS-U4QCTzFkhVUKOStJobM0ZV7Y3xgfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220118448499-j2kcjmg49r11sd0q8m8s1b2r8ifvjfat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
